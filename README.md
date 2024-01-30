@@ -1,4 +1,5 @@
 Here are the steps to run my code:
+
 for sql:
 1. create database reg
 2. create table Registration with required columns
